@@ -1,3 +1,10 @@
-# My Awesome Book
+# 煤炭结算管理系统
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+是一套根据煤炭运销公司和煤炭信息部的行业需要而开发的一套管理软件。
+
+软件基于云计算平台，提供稳定、安全的运行环境。
+
+
+
+
+
